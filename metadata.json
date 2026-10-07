@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect AI",
+  "description": "AI Interview Simulator & Campus Lost and Found Portal for college students with adaptive question generation, feedback, and intelligent item matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
